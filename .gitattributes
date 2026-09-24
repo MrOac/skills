@@ -1,0 +1,4 @@
+# Force LF so shell scripts stay runnable on Linux/macOS machines
+* text=auto
+*.sh text eol=lf
+*.md text eol=lf
